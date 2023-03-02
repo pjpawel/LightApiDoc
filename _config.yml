@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 title: LightApi
 description: Documentation of LightApi framework
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
